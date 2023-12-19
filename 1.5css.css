@@ -1,0 +1,138 @@
+html  {
+          size: 100%; 
+      }
+
+body {
+            size: 100%; 
+            background-image:url(1.4hintergrund.jpg); 
+            background-size:cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin: 0;
+            padding: 0;
+     }
+    
+    
+.banner {
+            font-size: 30px;
+        }
+
+
+
+
+.top-bar nav ul {
+                   list-style: none;
+                   padding: 10px;
+                   margin: 0;
+                   text-align: center;   
+                }
+
+
+.top-bar nav ul li  {
+                       display: inline;
+                       margin: 0 100px;
+                    }
+
+
+.top-bar nav ul li a  {
+                         text-decoration: none;
+                          color: black;
+                     }
+
+.top-bar   {
+               background-color: ghostwhite;
+           }
+
+           
+
+
+.box  {
+          width: 40%;
+          height: 40%;
+          position: absolute;
+          bottom: 50%;
+          font-size: 40px;
+          list-style-type:none;
+          background-color: white;
+    }
+
+
+
+.box2 {
+           background-color: white;
+           width: 40%;
+           height: 50%;
+           position: absolute;
+           bottom: 0%;
+           right: 0px;
+           font-size: 39px;
+           list-style-type:none;  
+       }
+
+
+.box3 {
+            background-color: white;
+            width: 40%;
+            height: 40%;
+            position: absolute;
+            bottom: -45%;
+            font-size: 39px;
+            list-style-type:none;
+      }
+
+
+.DTL  {
+      font-size: 30px;
+      }
+
+
+.weiterLesen  {
+                  font-size: 49px;
+                  color: aqua;
+              }
+
+
+h1     {
+             color: aliceblue;
+             font-size: 200px;
+             position: absolute;
+             right: 10%;
+       }
+
+
+.box4  {
+            background-color: white;
+            width: 46%;
+            height: 52%;
+            right: 23%;
+            position: absolute;
+            bottom: 0px;
+            font-size: 30px;
+            list-style-type:none;
+       }
+
+
+.zurückbox   {
+                 font-size: 30px;
+                 list-style-type:none;
+                color: aliceblue;
+             }
+
+
+h2     {  
+            color: aliceblue;
+            font-size: 100px;
+            position: absolute;
+            right: 12%;
+            top: 15%;
+       }
+
+
+
+h3     {
+            color: aliceblue;
+            font-size:100px;
+            position: absolute;
+            right: 12%;
+            top: 15%;
+       }

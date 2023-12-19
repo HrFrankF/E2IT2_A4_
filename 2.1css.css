@@ -1,0 +1,112 @@
+html  {
+    size: 100%; 
+}
+
+body {
+      size: 100%; 
+      background-image:url(2.6hintergrund.webp); 
+      background-size:cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      margin: 0;
+      padding: 0;
+}
+
+
+.banner {
+      font-size: 150%;
+  }
+
+
+
+
+.top-bar nav ul {
+             list-style: none;
+             padding: 10px;
+             margin: 0;
+             text-align: center;   
+          }
+
+
+.top-bar nav ul li  {
+                 display: inline;
+                 margin: 100px;
+              }
+
+
+.top-bar nav ul li a  {
+                   text-decoration: none;
+                    color: white;
+               }
+
+.top-bar   {
+         background-color: #8B008B;
+         border: 5px solid #ab82ff;
+     }
+.content-text {
+        height: 30%;
+        text-align: center;
+        padding: 40px 100px 30px;
+        color: white;
+    }
+       .footer{
+        padding: 20px;
+        text-align: left;
+        border: 5px solid #ab82ff;
+        background-color: #8B008B;
+        color: white
+    } 
+    .TextFooter{
+        float: left;
+        color: white
+    
+    }
+    .Partner{
+        float: right;
+    }
+    .icon{
+        width: 100px; height: 50px;
+        border: 3px solid #ab82ff;
+        float: right;
+    }
+        * {
+    box-sizing: border-box;
+}
+     
+    input[type=text], select {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        margin-top: 6px;
+        margin-bottom: 10px;
+       resize: vertical;
+    }
+     
+    .container {
+        width: 720px;
+        border-radius: 5px;
+        background-color: #f2f2f2;
+       padding: 20px;
+    }
+     
+    button {
+        background-color: #4b4241;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+           margin-top: 15px;
+    }
+     
+    button:hover {
+         background-color: #8b6969;
+
+    }
+     
+    label {
+        display: block;
+        margin-bottom: 5px;
+    }
